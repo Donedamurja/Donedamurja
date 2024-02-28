@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/doneda-murja-3381a7233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doneda-murja-3381a7233" height="30" width="40" /></a>
-<a href="https://fb.com/doneda-murja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="doneda-murja" height="30" width="40" /></a>
+<a href="https://fb.com/doneda murja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="doneda-murja" height="30" width="40" /></a>
 <a href="https://instagram.com/nedamurja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nedamurja" height="30" width="40" /></a>
 </p>
 
