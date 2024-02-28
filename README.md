@@ -19,7 +19,7 @@
 <a href="https://fb.com/doneda murja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="doneda-murja" height="30" width="40" /></a>
 <a href="https://instagram.com/nedamurja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nedamurja" height="30" width="40" /></a>
 </p>
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 <p>I'm  a versatile web developer and UX/UI designer with a passion for creating engaging digital experiences.  I bring a unique blend of technical expertise and design sensibility to every project I undertake.
 
 As a front-end developer, I specialize in crafting responsive, user-centric websites using HTML, CSS, and JavaScript. My proficiency in modern front-end frameworks like React, Tailwind , Bootstrap  enables me to build dynamic and interactive interfaces that captivate users.
